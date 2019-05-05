@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ShopDb\ShopDb\ShopDb\bin\Debug\ShopDb.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ShopDb\ShopDb\ShopDb\bin\Debug\ShopDb.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ShopDb\ShopDb\ShopDb\bin\Debug\ShopDb.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ShopDb\ShopDb\ShopDb\obj\Debug\ShopDb.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ShopDb\ShopDb\ShopDb\obj\Debug\ShopDb.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ShopDb\ShopDb\ShopDb\obj\Debug\ShopDb.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ShopDb\ShopDb\ShopDb\obj\Debug\ShopDb.pdb
